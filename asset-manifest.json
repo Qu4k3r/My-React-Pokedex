@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/My-React-Projects/static/css/main.0a9a5e51.chunk.css",
-    "main.js": "/My-React-Projects/static/js/main.5c69f6e8.chunk.js",
-    "main.js.map": "/My-React-Projects/static/js/main.5c69f6e8.chunk.js.map",
-    "runtime-main.js": "/My-React-Projects/static/js/runtime-main.69f9fec6.js",
-    "runtime-main.js.map": "/My-React-Projects/static/js/runtime-main.69f9fec6.js.map",
-    "static/js/2.77686f7d.chunk.js": "/My-React-Projects/static/js/2.77686f7d.chunk.js",
-    "static/js/2.77686f7d.chunk.js.map": "/My-React-Projects/static/js/2.77686f7d.chunk.js.map",
-    "static/js/3.66fa7b83.chunk.js": "/My-React-Projects/static/js/3.66fa7b83.chunk.js",
-    "static/js/3.66fa7b83.chunk.js.map": "/My-React-Projects/static/js/3.66fa7b83.chunk.js.map",
-    "index.html": "/My-React-Projects/index.html",
-    "static/css/main.0a9a5e51.chunk.css.map": "/My-React-Projects/static/css/main.0a9a5e51.chunk.css.map",
-    "static/js/2.77686f7d.chunk.js.LICENSE.txt": "/My-React-Projects/static/js/2.77686f7d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/My-React-Projects/static/media/pikachu.6ae0ee2e.gif"
+    "main.css": "/My-React-Pokedex/static/css/main.294451da.chunk.css",
+    "main.js": "/My-React-Pokedex/static/js/main.f0f617c5.chunk.js",
+    "main.js.map": "/My-React-Pokedex/static/js/main.f0f617c5.chunk.js.map",
+    "runtime-main.js": "/My-React-Pokedex/static/js/runtime-main.74023e2b.js",
+    "runtime-main.js.map": "/My-React-Pokedex/static/js/runtime-main.74023e2b.js.map",
+    "static/js/2.77686f7d.chunk.js": "/My-React-Pokedex/static/js/2.77686f7d.chunk.js",
+    "static/js/2.77686f7d.chunk.js.map": "/My-React-Pokedex/static/js/2.77686f7d.chunk.js.map",
+    "static/js/3.66fa7b83.chunk.js": "/My-React-Pokedex/static/js/3.66fa7b83.chunk.js",
+    "static/js/3.66fa7b83.chunk.js.map": "/My-React-Pokedex/static/js/3.66fa7b83.chunk.js.map",
+    "index.html": "/My-React-Pokedex/index.html",
+    "static/css/main.294451da.chunk.css.map": "/My-React-Pokedex/static/css/main.294451da.chunk.css.map",
+    "static/js/2.77686f7d.chunk.js.LICENSE.txt": "/My-React-Pokedex/static/js/2.77686f7d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/My-React-Pokedex/static/media/pikachu.6ae0ee2e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.69f9fec6.js",
+    "static/js/runtime-main.74023e2b.js",
     "static/js/2.77686f7d.chunk.js",
-    "static/css/main.0a9a5e51.chunk.css",
-    "static/js/main.5c69f6e8.chunk.js"
+    "static/css/main.294451da.chunk.css",
+    "static/js/main.f0f617c5.chunk.js"
   ]
 }
